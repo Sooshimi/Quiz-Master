@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef385491d3def064995ff7f95a5697ee, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: What famous rapper's real name is Christopher Wallace?
+  answers:
+  - Nas
+  - The Notorious B.I.G
+  - Eminem
+  - MF DOOM
+  correctAnswerIndex: 1
